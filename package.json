@@ -1,11 +1,10 @@
 {
   "name": "discord-bot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "src/index.js",
   "dependencies": {
     "@discord-additions/embed-builder": "^1.0.2",
     "@discordjs/builders": "^1.6.5",
-    "commandkit": "^0.1.6",
     "discord.js": "^14.13.0",
     "dotenv": "^16.3.1",
     "nodemon": "^3.0.1",
